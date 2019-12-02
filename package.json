@@ -1,0 +1,24 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Nodejs app",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srrk/helloworld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srrk/helloworld/issues"
+  },
+  "homepage": "https://github.com/srrk/helloworld#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2",
+    "zombie": "^6.1.4"
+  }
+}
